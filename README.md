@@ -1,43 +1,36 @@
 <p align="center">
-<h1 align="center">neutralinojs-reactjs-vitejs-tailwindcss</h1></p>
+<h1 align="center">Neutralinojs-reactjs-vitejs-tailwindcss</h1>
+<h3 align="center">Neutralinojs official repositorie : https://github.com/neutralinojs/neutralinojs</3>
+
 </p>
 
 <p align="center">
-<h1 align="center" color="red">!!! When you get to Development section and you made cvhanges to folders names you need to update neutrolino.config.json file https://neutralino.js.org/docs/how-to/use-a-frontend-library/ </h1></p>
+<h1 align="center" color="red">!!! When you get to Development section and you made cvhanges to folders names you need to update neutrolino.config.json file https://neutralino.js.org/docs/how-to/use-a-frontend-library/ </h1>
 </p>
 
 ## Contents
 
 - [Developer experience first](#Developer-experience-first)
 - [Features](#Built-in-feature-from-Next.js)
-- [Philosophy](#Philosophy)
 - [Requirements](#Requirements)
 - [Installation](#installation)
 - [Development](#development)
 
 ### Developer experience first:
 
-- 🔥
-- 🎨
-- 💅
-- ✏️
-- 🛠
-- 🧪
-- 🧠
-- 📕
-- 🆚
+- 🔥 Any Backend
+- 🎨 Any Frontend
+- 💅 Hot reload
 
 ### Built-in feature :
 
-- ☕
-- 💨 Hot reload
+- 💅 Simple & Flexible
+- 🛠 Native API
+- 🧠 Portable & Zero Dependency
+- 🆚 Cross-Platform Support
+- ☕ Any Backend, Any Frontend
+- 💨 Lightweight & Fast
 - ✅
-
-### Philosophy
-
--
--
-- 🚀
 
 ### Requirements
 
