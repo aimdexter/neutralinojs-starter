@@ -1,0 +1,32 @@
+{
+  "applicationId": "js.neutralino.zero",
+  "version": "1.0.0",
+  "defaultMode": "window",
+  "documentRoot": "/front/dist/",
+  "url": "/",
+  "enableServer": true,
+  "enableNativeAPI": true,
+  "nativeAllowList": ["app.*"],
+  "modes": {
+    "window": {
+      "title": "crud",
+      "width": 800,
+      "height": 500,
+      "minWidth": 400,
+      "minHeight": 200,
+      "icon": "/front/public/vite.svg"
+    }
+  },
+  "cli": {
+    "binaryName": "neutralinojs-starter",
+    "resourcesPath": "/front/dist/",
+    "extensionsPath": "/extensions/",
+    "clientLibrary": "/front/public/neutralino.js",
+    "binaryVersion": "4.7.0",
+    "clientVersion": "3.6.0",
+    "frontendLibrary": {
+      "patchFile": "/front/index.html",
+      "devUrl": "http://localhost:5173"
+    }
+  }
+}
